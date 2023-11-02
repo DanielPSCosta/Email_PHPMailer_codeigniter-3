@@ -110,7 +110,7 @@
     <script>
         function enviaEmail() {
             $.ajax({
-                url: "http://localhost/Email/index.php/mail/enviaEmail",
+                url: "http://localhost/Email_PHPMailer_codeigniter-3/index.php/mail/enviaEmail",
                 type: "POST",
                 dataType: 'json',
                 data: $('#formEmail').serialize(),
