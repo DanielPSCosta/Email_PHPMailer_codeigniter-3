@@ -81,7 +81,7 @@
                     </div>
 
                     <div class="row">
-                        <!-- <button type="button" class="btn btn-primary mt-3" onclick="enviaEmail()">Enviar</button> -->
+                        <button type="button" class="btn btn-primary mt-3" onclick="enviaEmail()">Enviar</button> 
 
                         <div class="position-relative">
                             <div class="position-absolute top-0 start-0"></div>
